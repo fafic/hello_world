@@ -1,1 +1,4 @@
 Esse é o primeiro arquivo do projeto (Dev 1)
+
+
+Ola Dev1 sou o novo colaborador.
